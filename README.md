@@ -1,5 +1,5 @@
 # PhotoBrowser
-the final version of the assignment
+the final version of the assignment. You can import it in the Eclipse to run it. Thank you!
 
 function：
 - open an image on your computer(image filter for format jps,png,git)
